@@ -2,11 +2,13 @@ import { Priority, Status, Task, User } from '../types';
 
 export const users: User[] = [
   { id: 'u1', name: 'Ava Patel', color: '#6366f1' },
-  { id: 'u2', name: 'Liam Wong', color: '#059669' },
-  { id: 'u3', name: 'Noah Clark', color: '#dc2626' },
-  { id: 'u4', name: 'Mia Lopez', color: '#d97706' },
-  { id: 'u5', name: 'Ethan Reed', color: '#0891b2' },
-  { id: 'u6', name: 'Zoe Kim', color: '#7c3aed' }
+
+  { id: 'u2', name: 'Arjun Mehta', color: '#059669' },
+  { id: 'u3', name: 'Priya Nair', color: '#dc2626' },
+  { id: 'u4', name: 'Rohan Iyer', color: '#d97706' },
+  { id: 'u5', name: 'Neha Verma', color: '#0891b2' },
+  { id: 'u6', name: 'Kabir Singh', color: '#7c3aed' }
+
 ];
 
 const titles = [
