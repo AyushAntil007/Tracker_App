@@ -78,7 +78,7 @@ A timed interval simulates 2–4 active collaborators moving between tasks. Pres
 <img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/a96f5b0e-d839-4270-8b0a-793ea11dca49" />
 
 
-## Explanation (150–250 words)
+## Explanation
 
 The hardest UI problem was balancing custom drag-and-drop with a dense Kanban layout while keeping columns responsive and avoiding layout shift. During drag, I retain the source card in-flow as a placeholder rather than removing it from the DOM. That placeholder keeps the original footprint, so surrounding cards don’t collapse upward while the dragged ghost follows the pointer. The drag ghost is rendered in a fixed layer with reduced opacity and shadow so users can track movement without losing context of the original column.
 
