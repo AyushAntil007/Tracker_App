@@ -75,12 +75,8 @@ A timed interval simulates 2–4 active collaborators moving between tasks. Pres
 - on cards as stacked avatars (`+N` overflow)
 
 ## Lighthouse
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/a96f5b0e-d839-4270-8b0a-793ea11dca49" />
 
-Please run Lighthouse locally on the production preview and add a screenshot in this section:
-
-`docs/lighthouse-desktop.png`
-
-![Lighthouse desktop report](docs/lighthouse-desktop.png)
 
 ## Explanation (150–250 words)
 
